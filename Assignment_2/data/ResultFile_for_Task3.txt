@@ -1,0 +1,13 @@
+Task 3 :
+
+For Self Written Decision Tree : 
+
+Mean Macro Accuracy : 75.63938603949566%
+Mean Macro Precision: 46.89366253200973%
+Mean Macro Recall   : 39.72039012720823%
+
+For Scikit learn Decision Tree : 
+
+Mean Macro Accuracy : 80.1125703564728%
+Mean Macro Precision: 52.28472021405947%
+Mean Macro Recall   : 43.18683967557479%
