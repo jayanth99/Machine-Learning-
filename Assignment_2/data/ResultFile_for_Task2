@@ -1,0 +1,29 @@
+Task 2 :
+
+Coefficients of Logistic Regression function using self written logistic regression classifier trained on the entire data are:
+
+-3.0906827594288764
+1.7161121497347407
+-3.825278448568408
+0.8381087796380583
+1.7643670865843926
+-2.4119870073172973
+-0.13290316855357354
+-2.6478846343007496
+-2.2340781148182876
+-0.5831513327661477
+4.5454031241867945
+5.424839576795825
+
+
+For Self Written Logistic Regression Classifier:
+
+Mean Accuracy after implementing 3 fold cross validation is : 87.36710444027517%
+Mean Precision after implementing 3 fold cross validation is: 57.765567765567766%
+Mean Recall after implementing 3 fold cross validation is   : 29.566841229245316%
+
+For scikit learn Logistic Regression Classifier:
+
+Mean Accuracy after implementing 3 fold cross validation is : 87.17948717948718%
+Mean Precision after implementing 3 fold cross validation is: 55.13240513240513%
+Mean Recall after implementing 3 fold cross validation is   : 32.16633513308705%
