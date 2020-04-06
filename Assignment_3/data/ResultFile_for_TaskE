@@ -1,0 +1,4 @@
+NMI score for Agglomerative clustering before applying PCA : 0.03437144602305066
+NMI score for Agglomerative clustering after applying PCA   :  0.03437144602305066
+NMI score for K means clustering before applying PCA : 0.45379731404256657
+NMI score for Agglomerative clustering after applying PCA : 0.6794005226098335
