@@ -1,0 +1,22 @@
+Name   : Jayanth Harsha Gorantla
+Roll No. : 17CS10013
+
+
+I wrote different python codes for different tasks i.e TaskA.py, TaskB.py, TaskC.py, TaskD.py and TaskE.py for TaskA, TaskB, TaskC, TaskD and TaskE respectively.
+
+In zipped folder, there are 3 folders namely "src", "data" and “clusters”
+All codes are present in "src" folder
+We can run codes in "src" folder and the working directory should also be "src"
+
+In "data" folder, there are 3 files namely 
+i)   "AllBooks_baseline_DTM_Labelled.csv" which is the given data
+ii)  "tfIdf_DataSet.csv" which represents DataSet obtained after Task A
+iii) "ResultFile_for_TaskE.txt" which contains NMI scores for all four clusters
+
+
+NMI scores :
+
+NMI score for Agglomerative clustering before applying PCA : 0.03437144602305066
+NMI score for Agglomerative clustering after applying PCA    :  0.03437144602305066
+NMI score for K means clustering before applying PCA          : 0.3801730601108964
+NMI score for Agglomerative clustering after applying PCA     : 0.5987347400970148
